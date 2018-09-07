@@ -13,11 +13,12 @@ a downloader for pixiv
 
 ### host的添加
 host路径一般为 C:\Windows\System32\drivers\etc，用记事本打开并复制黏贴（host于2018.9.7更新）：
-   #Pixiv
-   210.129.120.52 www.pixiv.net
-   210.140.131.144 source.pixiv.net
-   210.129.120.42 accounts.pixiv.net
-   210.140.131.144 imgaz.pixiv.net
+
+    #Pixiv
+    210.129.120.52 www.pixiv.net
+    210.140.131.144 source.pixiv.net
+    210.129.120.42 accounts.pixiv.net
+    210.140.131.144 imgaz.pixiv.net
 
 ## 使用
 1. 在pychram中调试可通过entrypoint.py或main.py
